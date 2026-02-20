@@ -36,4 +36,5 @@ def greeting_current(hour):
         print("Du bist nicht willkommen.")
         
         
-[print(x) for x in range(12)]
+
+greeting_current(hour)
